@@ -9,4 +9,4 @@
 
 Example:
 
-    /calculate?operation=sum&arg1=12&arg2=23
+    /calculate?op=sum&arg1=12&arg2=23
